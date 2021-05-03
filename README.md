@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Emre, a product designer, hobbyist coder and a digital archivist. I'm a 🤞soon-to-be-citizen🤞 immigrant in Toronto, Canada. Originally from Turkey.
+I'm Emre, a product designer, hobbyist coder and a digital archivist. Originally from Turkey, I currently reside in Toronto, Canada. 
 
 - 🔭 I’m currently working on ...
   - `XMRDCA`: a tool that helps people to invest in Monero by using the Dollar Cost Averaging method.
