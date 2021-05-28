@@ -2,8 +2,8 @@
 I'm Emre, a product designer, hobbyist coder and a digital archivist. Originally from Turkey, I currently reside in Toronto, Canada. 
 
 🔭 **Currently working on ...**
-  - `monero.cat`: a tool that helps people to invest in Monero by using the Dollar Cost Averaging method.
-  - `🙎🏻‍Mac`: a cryptocurrency trading bot.
+  - `😺 monero.cat`: a tool that helps people to invest in Monero by using the Dollar Cost Averaging method.
+  - `🙎🏻‍ Mac`: a cryptocurrency trading bot.
   - I plan to go full-time digital nomad. It is a challenging process so I'm working on it. (Also planning to work on a planner tool for it.)
 
 🌱 **Currently learning ...**
