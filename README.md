@@ -7,7 +7,7 @@ I'm Emre, a product designer, hobbyist coder and a digital archivist. Originally
   - I plan to go full-time digital nomad. It is a challenging process so I'm working on it. (Also planning to work on a planner tool for it.)
 
 🌱 **Currently learning ...**
-  - `React`: I guess it is a must to learn this.
+  - `⚛ React`: I guess it is a must to learn this.
 
 📚 **want to learn ...**
   - `Python`: I need to learn it for my pleasure. I want to work on machine learning and data more, so it makes sense for me to learn it.
