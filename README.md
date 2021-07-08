@@ -1,4 +1,4 @@
-I'm Emre (Pronounced like "Am-rae"), a product designer, hobbyist coder and a digital archivist. Originally from Turkey, I currently reside in Toronto, Canada. 
+I'm Emre (Pronounced like "Am-rae"), a product designer, coder and a digital archivist. Originally from Turkey, I currently reside in Toronto, Canada. 
 
 🔭 **Currently working on ...**
   - My upcoming citizenship test!
