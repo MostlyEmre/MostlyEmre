@@ -2,10 +2,10 @@ I'm Emre (Pronounced like "Am-rae"), a product designer, coder and a digital arc
 
 🔭 **Currently working on ...**
   - My upcoming citizenship test!
-  - A secret personal `React` project that includes web-scraping, `Firestore` and some backend development.
+  - ~~A secret personal `React` project that includes web-scraping, `Firestore` and some backend development.~~ (On hold)
   - `😺 monero.cat`: a tool that helps people to invest in `Monero` by using the `Dollar Cost Averaging` method.
-  - `🙎🏻‍ Mac`: a cryptocurrency trading bot.
-  - I plan to go full-time digital nomad. It is a challenging process so I'm working on it. (Also planning to work on a planner tool for it.)
+  - ~~`🙎🏻‍ Mac`: a cryptocurrency trading bot.~~ (On hold)
+  - ~~I plan to go full-time digital nomad. It is a challenging process so I'm working on it. (Also planning to work on a planner tool for it.)~~ (On hold)
 
 🌱 **Currently learning ...**
   - `⚛️ React`: Way more fun than I expected!
