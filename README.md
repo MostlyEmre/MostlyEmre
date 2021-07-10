@@ -10,5 +10,5 @@ I'm Emre (Pronounced like "Am-rae"), a product designer, coder and a digital arc
   - `⚛️ React`: Way more fun than I expected!
 
 📚 **want to learn ...**
-  - `🐍 Python`: I need to learn it for my pleasure. I want to work more on machine learning and data, python is a good fit for that.
+  - `🐍 Python`: I want to learn it for pleasure. I would like to learn more about machine learning and data, and python is a good fit for that.
 
