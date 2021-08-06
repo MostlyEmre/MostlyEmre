@@ -6,8 +6,9 @@ JavaScript, TypeScript, ReactJS, GatsbyJS, HTML, CSS, Tailwind CSS, Firebase
 Plus, I did design for a long time. So I am familiar with design tools like Adobe XD, Figma, Photoshop, Illustrator, etc.
 
 ### 🔭 Currently working on ...
+  - Portfolio Rebuild. Tech: GatsbyJS, GraphQL, Tailwind CSS
   - HN Paywall Archiver Front-end (See repos for detailed info)
-  - **SaveThat.ca**: A directory to help immigrants/newly landed adjust to Canada's brand ecosystem. **Tech**: ReactJS, Tailwind CSS, Firebase.
+  - SaveThat.ca: A directory to help immigrants/newly landed adjust to Canada's brand ecosystem. **Tech**: ReactJS, Tailwind CSS, Firebase.
   - I plan to go full-time digital nomad. It is a challenging process so I'm working on it. (Also planning to work on a planner tool for it.)
 
 ### 🌱 Currently learning ...
@@ -23,6 +24,5 @@ I learn by dabbling. So I have to use these frameworks/libraries on a custom pro
   - 🐍 Python
 
 ### Upcoming Projects
-  - Portfolio Rebuild. Tech: GatsbyJS, GraphQL, Tailwind CSS
   - `😺 monero.cat`: a tool that helps people to invest in `Monero` by using the `Dollar Cost Averaging` method. Security and Privacy is a priority. Tech: Vanilla JS, HTML + CSS
   - `✨ astray.gallery`: Liberating the arts from curation. Indie art gallery that lives in the augmented reality, accessible via mobile browsers. Tech: AR.js/A-Frame/Three.js
