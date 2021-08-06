@@ -10,7 +10,7 @@ Plus, I did design for a long time. So I am familiar with design tools like Adob
   - I plan to go full-time digital nomad. It is a challenging process so I'm working on it. (Also planning to work on a planner tool for it.)
 
 ### 🌱 Currently learning ...
-Gatsby, GraphQL Supabase
+Gatsby, GraphQL, Supabase
 
 ### 📚 Learning Queue (Sorted by priority) ...
 I learn by dabbling. So I have to use these frameworks/libraries on a custom project to be able to learn them.
