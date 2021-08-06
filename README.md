@@ -22,6 +22,6 @@ I learn by dabbling. So I have to use these frameworks/libraries on a custom pro
   - 🐍 Python
 
 ### Upcoming Projects
-  - Portfolio Rebuild. Tech: TypeScript, GatsbyJS, GraphQL, Supabase, Tailwind CSS
+  - Portfolio Rebuild. Tech: GatsbyJS, GraphQL, Tailwind CSS
   - `😺 monero.cat`: a tool that helps people to invest in `Monero` by using the `Dollar Cost Averaging` method. Security and Privacy is a priority. Tech: Vanilla JS, HTML + CSS
   - `✨ astray.gallery`: Liberating the arts from curation. Indie art gallery that lives in the augmented reality, accessible via mobile browsers. Tech: AR.js/A-Frame/Three.js
