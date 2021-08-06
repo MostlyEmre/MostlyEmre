@@ -6,6 +6,7 @@ JavaScript, TypeScript, ReactJS, GatsbyJS, HTML, CSS, Tailwind CSS, Firebase
 Plus, I did design for a long time. So I am familiar with design tools like Adobe XD, Figma, Photoshop, Illustrator, etc.
 
 ### 🔭 Currently working on ...
+  - HN Paywall Archiver Front-end (See repos for detailed info)
   - **SaveThat.ca**: A directory to help immigrants/newly landed adjust to Canada's brand ecosystem. **Tech**: ReactJS, Tailwind CSS, Firebase.
   - I plan to go full-time digital nomad. It is a challenging process so I'm working on it. (Also planning to work on a planner tool for it.)
 
