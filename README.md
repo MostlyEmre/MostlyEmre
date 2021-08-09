@@ -7,7 +7,6 @@ Plus, I did design for a long time. So I am familiar with design tools like Adob
 
 ### 🔭 Currently working on ...
   - Portfolio Rebuild. Tech: GatsbyJS, GraphQL, Tailwind CSS
-  - HN Paywall Archiver Front-end (See repos for detailed info)
   - SaveThat.ca: A directory to help immigrants/newly landed adjust to Canada's brand ecosystem. **Tech**: ReactJS, Tailwind CSS, Firebase.
   - I plan to go full-time digital nomad. It is a challenging process so I'm working on it. (Also planning to work on a planner tool for it.)
 
