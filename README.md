@@ -1,4 +1,4 @@
-I'm Emre (Pronounced like "Em-rae"), a product designer, coder and a digital archivist. Originally from Turkey, I currently reside in Toronto, Canada. 
+I'm Emre (Pronounced like "Am + rae"), a product designer, coder and a digital archivist. Originally from Turkey, I currently reside in Toronto, Canada. 
 
 ### 📐 Technical Skills
 JavaScript, TypeScript, ReactJS, GatsbyJS, HTML, CSS, Tailwind CSS, Firebase
@@ -11,7 +11,7 @@ Plus, I did design for a long time. So I am familiar with design tools like Adob
   - I plan to go full-time digital nomad. It is a challenging process so I'm working on it. (Also planning to work on a planner tool for it.)
 
 ### 🌱 Currently learning ...
-Gatsby, GraphQL, Supabase
+Gatsby, GraphQL
 
 ### 📚 Learning Queue (Sorted by priority) ...
 I learn by dabbling. So I have to use these frameworks/libraries on a custom project to be able to learn them.
