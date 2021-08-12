@@ -1,7 +1,7 @@
 I'm Emre (Pronounced like "Am + rae"), a product designer, coder and a digital archivist. Originally from Turkey, I currently reside in Toronto, Canada. 
 
 ### 📐 Technical Skills
-JavaScript, TypeScript, ReactJS, GatsbyJS, GraphQL, HTML, CSS, Tailwind CSS, Firebase, Framer Motion
+JavaScript, TypeScript, ReactJS, HTML, CSS, Tailwind CSS, Firebase, Framer Motion
 
 Plus, I did design for a long time. So I am familiar with design tools like Adobe XD, Figma, Photoshop, Illustrator, etc.
 
