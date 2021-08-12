@@ -1,7 +1,7 @@
 I'm Emre (Pronounced like "Am + rae"), a product designer, coder and a digital archivist. Originally from Turkey, I currently reside in Toronto, Canada. 
 
 ### 📐 Technical Skills
-JavaScript, TypeScript, ReactJS, GatsbyJS, HTML, CSS, Tailwind CSS, Firebase
+JavaScript, TypeScript, ReactJS, GatsbyJS, GraphQL, HTML, CSS, Tailwind CSS, Firebase, Framer Motion
 
 Plus, I did design for a long time. So I am familiar with design tools like Adobe XD, Figma, Photoshop, Illustrator, etc.
 
@@ -16,8 +16,8 @@ Gatsby, GraphQL
 ### 📚 Learning Queue (Sorted by priority) ...
 I learn by dabbling. So I have to use these frameworks/libraries on a custom project to be able to learn them.
   - React Context API / useReducer
-  - GatsbyJS, GraphQL, Supabase
-  - Regex, ReactStrap, Material UI, Framer Motion
+  - Regex, ReactStrap, Material UI
+  - Supabase
   - Styled Components, NextJS, Jest
   - React Native, Electron
   - 🐍 Python
