@@ -14,8 +14,7 @@ I learn by dabbling. So I have to use these frameworks/libraries on a custom pro
   - React Context API / useReducer
   - Regex, ReactStrap, Material UI
   - Supabase
-  - Styled Components, NextJS, Jest
-  - React Native, Electron
+  - Svelte
   - 🐍 Python
 
 ### Upcoming Projects
