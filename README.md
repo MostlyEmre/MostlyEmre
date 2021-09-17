@@ -11,10 +11,10 @@ Plus, I did design for a long time. So I am familiar with design tools like Adob
 
 ### 📚 Learning Queue (Sorted by priority) ...
 I learn by dabbling. So I have to use these frameworks/libraries on a custom project to be able to learn them.
-  - React Context API / useReducer
+  - Redux
+  - Svelte
   - Regex, ReactStrap, Material UI
   - Supabase
-  - Svelte
   - 🐍 Python
 
 ### Upcoming Projects
