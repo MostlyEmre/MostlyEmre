@@ -1,4 +1,4 @@
-I'm Emre (Pronounced "Am + rae"), a product designer turned front end developer, and a digital archivist. Originally from Istanbul 🇹🇷, I currently reside in Toronto 🇨🇦. 
+I'm Emre (Pronounced "Am + rae"), a product designer turned front end developer, and a digital archivist. Originally from Istanbul, I currently reside in Toronto. 
 
 ### 📐 Technical Skills
 JavaScript, TypeScript, ReactJS, HTML, CSS, SASS/SCSS, Tailwind CSS, GatsbyJS, GraphQL, Firebase, Framer Motion
