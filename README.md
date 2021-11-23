@@ -23,6 +23,6 @@ I learn by dabbling. So I have to use these frameworks/libraries on a custom pro
 
 <details>
   <summary>Upcoming Projects</summary>
-  <p>SaveThat.ca: A directory to help immigrants/newly landed adjust to Canada's brand ecosystem. Tech: ReactJS, Tailwind CSS, Firebase.</p>
-  <p>astray.gallery: Liberating the arts from curation. Indie art gallery that lives in the augmented reality, accessible via mobile browsers. Tech: AR.js / A-Frame / Three.js</p>
+  <li><b>savethat.ca:</b> A directory to help immigrants/newly landed adjust to Canada's brand ecosystem. Tech: ReactJS, Tailwind CSS, Firebase.</li>
+  <li><b>astray.gallery:</b> Liberating the arts from curation. Indie art gallery that lives in the augmented reality, accessible via mobile browsers. Tech: AR.js / A-Frame / Three.js</li>
 </details>
