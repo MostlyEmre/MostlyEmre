@@ -24,7 +24,7 @@ I learn by dabbling. So I have to use these frameworks/libraries on a custom pro
 <details>
   <summary>Upcoming Projects</summary>
   <li><b>savethat.ca:</b>
-    <p>A directory to help immigrants/newly landed adjust to Canada's brand ecosystem.<p>
+    A directory to help immigrants/newly landed adjust to Canada's brand ecosystem.
     <ul>Tech
       <li>ReactJS</li>
       <li>Tailwind CSS</li>
