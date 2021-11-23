@@ -1,4 +1,6 @@
-I'm Emre (Pronounced "Am + rae"), a product designer turned front end developer, and a digital archivist. Originally from Istanbul, I currently reside in Toronto. 
+I'm Emre (Pronounced "Am + rae"), a product designer turned front end developer, and a digital archivist. Originally from Istanbul, I currently reside in Toronto.
+
+Passionate about helping others, especially the underprivilaged ones.
 
 ### 📐 Technical Skills
 JavaScript, TypeScript, ReactJS, HTML, CSS, SASS/SCSS, Tailwind CSS, GatsbyJS, GraphQL, Firebase, Framer Motion
@@ -11,14 +13,16 @@ Plus, I did design for a long time. So I am familiar with design tools like Adob
 
 ### 📚 Learning Queue (Sorted by priority) ...
 I learn by dabbling. So I have to use these frameworks/libraries on a custom project to be able to learn them.
-  - Redux
-  - Svelte
-  - Regex, ReactStrap, Material UI
-  - Supabase
-  - 🐍 Python
+<ul>
+  <li>Redux</li>
+  <li>Svelte</li>
+  <li>Regex, ReactStrap, Material UI</li>
+  <li>Supabase</li>
+  <li>Python</li>  
+</ul>
 
 <details>
   <summary>Upcoming Projects</summary>
-  <p>SaveThat.ca: A directory to help immigrants/newly landed adjust to Canada's brand ecosystem. **Tech**: ReactJS, Tailwind CSS, Firebase.</p>
-  <p>`✨ astray.gallery`: Liberating the arts from curation. Indie art gallery that lives in the augmented reality, accessible via mobile browsers. Tech: AR.js/A-Frame/Three.js</p>
+  <p>SaveThat.ca: A directory to help immigrants/newly landed adjust to Canada's brand ecosystem. Tech: ReactJS, Tailwind CSS, Firebase.</p>
+  <p>astray.gallery: Liberating the arts from curation. Indie art gallery that lives in the augmented reality, accessible via mobile browsers. Tech: AR.js / A-Frame / Three.js</p>
 </details>
