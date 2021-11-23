@@ -17,6 +17,8 @@ I learn by dabbling. So I have to use these frameworks/libraries on a custom pro
   - Supabase
   - 🐍 Python
 
-### Upcoming Projects
+<details>
+  <summary>Upcoming Projects</summary>
   - SaveThat.ca: A directory to help immigrants/newly landed adjust to Canada's brand ecosystem. **Tech**: ReactJS, Tailwind CSS, Firebase.
   - `✨ astray.gallery`: Liberating the arts from curation. Indie art gallery that lives in the augmented reality, accessible via mobile browsers. Tech: AR.js/A-Frame/Three.js
+</details
