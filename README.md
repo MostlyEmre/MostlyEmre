@@ -1,9 +1,8 @@
-<div style="font-family: monospace;">
-<div style="background-color: whitesmoke; padding: 1rem 2rem; padding-top:2rem;border-radius:2rem;">
+<section>
 <p>I'm Emre <sup><i>Pronounced "Am + rae"</i></sup> a product designer turned front end developer, and a digital archivist. Originally from Istanbul, I currently reside in Toronto.</p>
 
 <p>Passionate about helping others, especially the underprivilaged ones.</p>
-</div>
+</section>
 
 ### 📐 Technical Skills
 
@@ -27,17 +26,28 @@ I learn by dabbling. So I have to use these frameworks/libraries on a custom pro
   <li>Supabase</li>
   <li>Python</li>  
 </ul>
+  <hr>
 
 <details>
-  <summary>Upcoming Projects</summary>
-  <li><b>savethat.ca:</b>
-    A directory to help immigrants/newly landed adjust to Canada's brand ecosystem.
-    <ul>Tech
+  <summary><h3>Upcoming Projects</h3></summary>
+  <h4>savethat.ca</h4>
+    <p>A directory to help immigrants/newly landed adjust to Canada's brand ecosystem.</p>
+    <h5>tech</h5>
+    <ul>
       <li>ReactJS</li>
       <li>Tailwind CSS</li>
       <li>Firebase</li>
     </ul>
   </li>
-  <li><b>astray.gallery:</b> Liberating the arts from curation. Indie art gallery that lives in the augmented reality, accessible via mobile browsers. Tech: AR.js / A-Frame / Three.js</li>
+  <!-- a -->
+    <h4>astray.gallery</h4>
+    <p>Liberating the arts from curation. Indie art gallery that lives in the augmented reality, accessible via mobile browsers.</p>
+    <h5>tech</h5>
+    <ul>
+      <li>AR.js</li>
+      <li>A-Frame</li>
+      <li>Three.js</li>
+    </ul>
+  </li>
 </details>
 </div>
