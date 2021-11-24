@@ -1,8 +1,6 @@
-I'm Emre <sup>**_Am + rae_**</sup> a product designer turned front end developer, and a digital archivist. Originally from Istanbul, I currently reside in Toronto.
+I'm Emre <sup>**_Am + rae_**</sup> a product designer turned front end developer, and a digital archivist. Originally from Istanbul, I currently reside in Toronto. Passionate about helping others.
 
-Passionate about helping others.
-
-### Technical Skills
+#### Technical Skills
 
 `JavaScript` `TypeScript` `ReactJS` `HTML` `CSS` `SASS/SCSS` `Tailwind CSS` `GatsbyJS` `GraphQL` `Firebase` `Framer Motion`
 
@@ -13,7 +11,7 @@ Plus, I did design for a long time. So `Adobe XD` `Figma` `Photoshop` `Illustrat
 **monero.cat** _A tool that helps people to invest in **Monero** by using the **Dollar Cost Averaging** method. Security, privacy and clean code is a priority._
 `Vanilla JS` `HTML + CSS`
 
-#### 📚 Learning Queue (Sorted by priority)
+#### Learning Queue
 
 `Redux` `Svelte` `Regex` `Supabase` `Python`
 
