@@ -9,7 +9,7 @@ Plus, I did design for a long time. So `Adobe XD` `Figma` `Photoshop` `Illustrat
 #### Working on
 
 **monero.cat** _A tool that helps people to invest in **Monero** by using the **Dollar Cost Averaging** method. Security, privacy and clean code is a priority._
-`Vanilla JS` `HTML + CSS`
+`Vanilla JS` `HTML + CSS`. On hold due to API limitations.
 
 #### Learning Queue
 
