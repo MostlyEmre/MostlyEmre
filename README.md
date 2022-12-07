@@ -6,4 +6,4 @@ I'm Emre <sup>**_Am + rae_**</sup> a product designer turned front end developer
 [How to rescue your videos from Adobe Portfolio?](https://emre.ca/blog/get-rid-of-adobe-portfolio)
 
 🫰 Special Thanks  
-DALL-E 2 (for my avatar)
+Stable Diffusion (For my avatar. It is me, but different.)
