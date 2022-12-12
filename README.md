@@ -8,4 +8,5 @@ I'm Emre <sup>**_Am + rae_**</sup> a product designer turned front end developer
 
 ✨ **Magical Banner Gallery** 
     
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/mostlyemre/work-stack)
+[![Work Stack](http://img.shields.io/badge/Work-Stack-important.svg?style=flat)](https://stackshare.io/mostlyemre/work-stack)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mostlyemre?color=lightblue&label=Twitter&style=flat)](https://twitter.com/mostlyemre)
