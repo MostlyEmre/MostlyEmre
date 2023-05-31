@@ -1,10 +1,13 @@
-## About
+## 👨‍💻 About
 
-I'm Emre <sup>**_Am + rae_**</sup> a product designer turned front end developer, and a digital archivist. Originally from Istanbul, I currently reside in Toronto. Passionate about helping others. Find me on [Twitter](https://twitter.com/MostlyEmre) or [Linkedin](https://www.linkedin.com/in/mostlyemre/).
+I'm Emre <sup>**_Am + rae_**</sup> a product designer turned front end developer, and a digital archivist. Originally from Istanbul, I'm based in Toronto. Currently, I'm travelling the world while working remote for a Vancouver-based agency. Find me on [Twitter](https://twitter.com/MostlyEmre) or [Linkedin](https://www.linkedin.com/in/mostlyemre/).
 
 Visit my fast-as-lightning [website (https://emre.ca)](https://emre.ca) to learn more about me and my projects.
 
-## Devlog  
+## 🌍 Route 
+`Toronto` `📍 Athens` `Istanbul` `Bangkok` `TBD`
+
+## ✍️ Devlog  
 
 🏔️ [A Random Walk Down GPT-4: Discovering the Wonders of Bash Scripting](https://emre.ca/devlog/discovering-wonders-bash-scripting/)  
 🎨 [Optimizing Anchor Tag Color for Light & Dark Modes](https://emre.ca/devlog/almost-perfect-anchor-tag-color/)  
