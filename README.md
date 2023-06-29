@@ -5,7 +5,7 @@ I'm Emre <sup>**_Am + rae_**</sup> a product designer turned front end developer
 Visit my fast-as-lightning [website (https://emre.ca)](https://emre.ca) to learn more about me and my projects.
 
 ## 🌍 Route 
-`Toronto` `📍 Athens` `Istanbul` `Bangkok` `TBD`
+`Toronto` `Athens` `📍 Istanbul` `Bangkok` `TBD`
 
 ## ✍️ Devlog  
 
