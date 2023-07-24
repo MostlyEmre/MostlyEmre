@@ -7,7 +7,7 @@ Visit my fast-as-lightning [website (https://emre.ca)](https://emre.ca) to learn
 ## 🌍 Route 
 📍 Pins indicate my current location.
 
-`🇨🇦 Toronto` `🇲🇽 Playa del Carmen` `🇨🇦 Toronto` `🇬🇷 Athens` **`📍 🇹🇷 Istanbul 📍`** `🇹🇭 Bangkok` `🇲🇾 Kuala Lumpur` `🇻🇳 Ho Chi Minh City` `🇵🇭 Makati` `🌏 TBD`    
+`🇨🇦 Toronto` `🇲🇽 Playa del Carmen` `🇨🇦 Toronto` `🇬🇷 Athens` **`🇹🇷 Istanbul`** `📍 🇹🇭 Bangkok 📍` `🇲🇾 Kuala Lumpur` `🇻🇳 Ho Chi Minh City` `🇵🇭 Makati` `🌏 TBD`    
 
 ## ✍️ Devlog  
 
