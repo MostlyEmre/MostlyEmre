@@ -5,7 +5,7 @@ I'm Emre <sup>**_Am + rae_**</sup> a product designer turned front end developer
 Visit my fast-as-lightning [website (https://emre.ca)](https://emre.ca) to learn more about me and my projects.
 
 ## 🌍 Route 
-📍 Pis indicates my current location.
+📍 Pin indicates my current location.
 
 `🇨🇦 Toronto` `🇲🇽 Playa del Carmen` `🇨🇦 Toronto` `🇬🇷 Athens` `🇹🇷 Istanbul` `🇹🇭 Bangkok` `📍🇲🇾 Kuala Lumpur` `🇯🇵 Tokyo` `🌏 TBD`    
 
