@@ -4,11 +4,6 @@ I'm Emre <sup>**_Am + rae_**</sup> a product designer turned front end developer
 
 Visit my fast-as-lightning [website (https://emre.ca)](https://emre.ca) to learn more about me and my projects.
 
-## 🌍 Route 
-📍 Pin indicates my current location.
-
-`🇨🇦 Toronto` `🇲🇽 Playa del Carmen` `🇨🇦 Toronto` `🇬🇷 Athens` `🇹🇷 Istanbul` `🇹🇭 Bangkok` `🇲🇾 Kuala Lumpur` `🇯🇵 Tokyo` `📍🇵🇭 Manila` `🌏 TBD`    
-
 ## ✍️ Devlog  
 
 🏔️ [A Random Walk Down GPT-4: Discovering the Wonders of Bash Scripting](https://emre.ca/devlog/discovering-wonders-bash-scripting/)  
