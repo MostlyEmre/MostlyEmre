@@ -1,6 +1,6 @@
 ## 👨‍💻 About
 
-I'm Emre <sup>**_Am + rae_**</sup> a product designer turned front end developer, and a digital archivist. I'm a Turkish Canadian; Originally from Istanbul, and based in Toronto. Currently, I'm travelling the world while working remote for a Vancouver-based agency. Find me on [Linkedin](https://www.linkedin.com/in/mostlyemre/).
+I'm Emre <sup>**_Am + rae_**</sup> a product designer turned front end developer, and a digital archivist. I'm a Turkish Canadian; Originally from Istanbul, and based in Toronto. Currently, I'm working as a front end developer for a Vancouver-based agency. Find me on [Linkedin](https://www.linkedin.com/in/mostlyemre/).
 
 Visit my fast-as-lightning [website (https://emre.ca)](https://emre.ca) to learn more about me and my projects.
 
