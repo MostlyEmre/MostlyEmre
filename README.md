@@ -4,6 +4,11 @@ I'm Emre <sup>**_Am + rae_**</sup> a product designer turned front end developer
 
 Visit my fast-as-lightning [website (https://emre.ca)](https://emre.ca) to learn more about me and my projects.
 
+## 🏴‍☠️ UserScripts  
+
+🍿 [BoxOfficeTurkey Ad Blocker Bypass](https://greasyfork.org/en/scripts/496678-boxofficeturkey-ad-blocker-bypass)  
+🥷 [Hacker News Anti-Paywall](https://greasyfork.org/en/scripts/452024-hacker-news-anti-paywall)  
+
 ## ✍️ Devlog  
 
 🏔️ [A Random Walk Down GPT-4: Discovering the Wonders of Bash Scripting](https://emre.ca/devlog/discovering-wonders-bash-scripting/)  
