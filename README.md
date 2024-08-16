@@ -6,6 +6,7 @@ Visit my fast-as-lightning [website (https://emre.ca)](https://emre.ca) to learn
 
 ## 🏴‍☠️ UserScripts  
 
+🎬 [Letterboxd Ratings Shield](https://greasyfork.org/en/scripts/503787-letterboxd-ratings-shield)  
 🍿 [BoxOfficeTurkey Ad Blocker Bypass](https://greasyfork.org/en/scripts/496678-boxofficeturkey-ad-blocker-bypass)  
 🥷 [Hacker News Anti-Paywall](https://greasyfork.org/en/scripts/452024-hacker-news-anti-paywall)  
 
