@@ -1,20 +1,27 @@
 ## 👨‍💻 About
 
-I'm Emre <sup>**_Am + rae_**</sup> a product designer turned front end developer, and a digital archivist. I'm a Turkish Canadian; Originally from Istanbul, and based in Toronto. Currently, I'm working as a front end developer for a Vancouver-based agency. Find me on [Linkedin](https://www.linkedin.com/in/mostlyemre/).
+I’m **Emre** (pronounced *Am-rae*), a product-designer-turned-front-end developer and digital archivist.  
+I’m Turkish-Canadian—originally from Istanbul, now (mostly) based in Toronto.  
+Currently I build fast, accessible UIs for a Vancouver-based agency.  
+[Connect with me on LinkedIn](https://www.linkedin.com/in/mostlyemre).
 
-Visit my fast-as-lightning [website (https://emre.ca)](https://emre.ca) to learn more about me and my projects.
+Check out my lightning-fast personal site → **[emre.ca](https://emre.ca)** for more projects and writing.
 
-## 🏴‍☠️ UserScripts  
+---
 
-🎬 [Letterboxd Ratings Shield](https://greasyfork.org/en/scripts/503787-letterboxd-ratings-shield)  
-🍿 [BoxOfficeTurkey Ad Blocker Bypass](https://greasyfork.org/en/scripts/496678-boxofficeturkey-ad-blocker-bypass)  
-🥷 [Hacker News Anti-Paywall](https://greasyfork.org/en/scripts/452024-hacker-news-anti-paywall)  
+## 🛠️ User Scripts
 
-## ✍️ Devlog  
+- 🎬 **Letterboxd Ratings Shield** – hide Letterboxd scores until after you’ve logged a watch
+- 🍿 **BoxOfficeTurkey Ad-Blocker Bypass** – view film stats without intrusive pop-ups
+- 📰 **Hacker News Anti-Paywall** – auto-load the readable version of paywalled links
 
-🏔️ [A Random Walk Down GPT-4: Discovering the Wonders of Bash Scripting](https://emre.ca/devlog/discovering-wonders-bash-scripting/)  
-🎨 [Optimizing Anchor Tag Color for Light & Dark Modes](https://emre.ca/devlog/almost-perfect-anchor-tag-color/)  
-🧘‍♂️ [120-Byte Responsive CSS for Auto-Adapting Light/Dark Mode](https://emre.ca/devlog/120-bytes-of-css/)  
-💸 [Creating a solution for paywalled Hacker News submissions](https://gist.github.com/MostlyEmre/ddec18c4a5b18413994ff9e179bf00ac) | [ShowHN Post](https://news.ycombinator.com/item?id=33794672)  
-🧐 [When the resize event won't cut](https://gist.github.com/MostlyEmre/4afdb8ecb2b2244dfcd458e81596dbee)  
-⛑️ [How to rescue your videos from Adobe Portfolio?](https://gist.github.com/MostlyEmre/b912d8451eeaae65013c7249a3cc1144)
+---
+
+## ✍️ Devlog Highlights
+
+1. 🚀 **A Random Walk Down GPT-4** – discovering Bash scripting super-powers  
+2. 🔗 **Optimising Anchor Tag Colours** for light & dark modes  
+3. 📏 **120-Byte Responsive CSS** that auto-detects colour-scheme  
+4. 🛠️ **Paywalled Hacker News Submissions** – a Show HN postmortem  
+5. 🤔 **When the `resize` Event Won’t Cut It** – performance lessons  
+6. 🛡️ **Rescuing Your Videos from Adobe Portfolio** – a quick-and-dirty script
