@@ -11,9 +11,9 @@ Check out my lightning-fast personal site → **[emre.ca](https://emre.ca)** for
 
 ## 🛠️ User Scripts
 
-- 🎬 **Letterboxd Ratings Shield** – hide Letterboxd scores until after you’ve logged a watch
-- 🍿 **BoxOfficeTurkey Ad-Blocker Bypass** – view film stats without intrusive pop-ups
-- 📰 **Hacker News Anti-Paywall** – auto-load the readable version of paywalled links
+- 🎬 [**Letterboxd Ratings Shield**](https://greasyfork.org/en/scripts/503787-letterboxd-ratings-shield) – hide Letterboxd scores until after you’ve logged a watch
+- 🍿 [**BoxOfficeTurkey Ad-Blocker Bypass**](https://greasyfork.org/en/scripts/496678-boxofficeturkey-ad-blocker-bypass) – view film stats without intrusive pop-ups
+- 📰 [**Hacker News Anti-Paywall**](https://greasyfork.org/en/scripts/452024-hacker-news-anti-paywall) – auto-load the readable version of paywalled links
 
 ---
 
