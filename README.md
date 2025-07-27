@@ -19,9 +19,9 @@ Check out my lightning-fast personal site → **[emre.ca](https://emre.ca)** for
 
 ## ✍️ Devlog Highlights
 
-1. 🚀 **A Random Walk Down GPT-4** – discovering Bash scripting super-powers  
-2. 🔗 **Optimising Anchor Tag Colours** for light & dark modes  
-3. 📏 **120-Byte Responsive CSS** that auto-detects colour-scheme  
-4. 🛠️ **Paywalled Hacker News Submissions** – a Show HN postmortem  
-5. 🤔 **When the `resize` Event Won’t Cut It** – performance lessons  
-6. 🛡️ **Rescuing Your Videos from Adobe Portfolio** – a quick-and-dirty script
+1. 🚀 [**A Random Walk Down GPT-4**](https://emre.ca/devlog/discovering-wonders-bash-scripting/) – discovering Bash scripting super-powers  
+2. 🔗 [**Optimising Anchor Tag Colours**](https://emre.ca/devlog/almost-perfect-anchor-tag-color/) for light & dark modes  
+3. 📏 [**120-Byte Responsive CSS**](https://emre.ca/devlog/120-bytes-of-css/) that auto-detects colour-scheme  
+4. 🛠️ [**Paywalled Hacker News Submissions**](https://emre.ca/devlog/solving-paywalled-hn-submission-problem/) – a Show HN postmortem  
+5. 🤔 [**When the `resize` Event Won’t Cut It**](https://gist.github.com/MostlyEmre/4afdb8ecb2b2244dfcd458e81596dbee) – performance lessons  
+6. 🛡️ [**Rescuing Your Videos from Adobe Portfolio**](https://gist.github.com/MostlyEmre/b912d8451eeaae65013c7249a3cc1144) – a quick-and-dirty script
